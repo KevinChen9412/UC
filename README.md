@@ -1,5 +1,5 @@
-[R coding example]:(R-Data-Wrangling.ipynb) 
 
+[R coding example]:(R-Data-Wrangling.ipynb)
 
 Some of my **Tabelau** works: https://public.tableau.com/profile/kevin6936
 
