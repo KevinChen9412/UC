@@ -4,3 +4,7 @@ The [R-Data-Wrangling.ipynb] is one of my previous work in R. Although it's an a
 Some of my **Tabelau** works: https://public.tableau.com/profile/kevin6936
 
 The [Project report](README.md) is the report I worte for my summer intership in SKOPE. The code and data used to generate the plots are not avaliable anymore due to NDA agreement with the company.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
