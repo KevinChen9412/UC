@@ -6,4 +6,4 @@ The [R-Data-Wrangling.ipynb](R-Data-Wrangling.ipynb) is one of my previous work 
 Some of my **Tabelau** works can be found here: https://public.tableau.com/profile/kevin6936
 ![alt text](images/tableau.png)
 
-The [SKOPE Project report](SKOPE-Project-report.pdf) is the report I wrote for my summer internship  at SKOPE. The code and data are not avaliable anymore due to an NDA agreement with the company.
+The [SKOPE Project report](SKOPE-Project-report.pdf) is the report I wrote for my summer internship  at SKOPE. The code and data are not avaliable due to an NDA agreement with the company.
